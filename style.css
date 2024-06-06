@@ -1,0 +1,144 @@
+body{
+    background: linear-gradient(to right, #41369b, #211f37);
+    margin: 0;
+    padding: 0;
+    color: white; /* Text color to contrast with the background */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover; */
+}
+.nav1{
+    background: linear-gradient(to right, #41369b, #211f37);
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+    display: flex;
+}
+.style h1{
+    margin-left: 20px;
+    color: aliceblue;
+}
+.menu {
+    list-style: none;
+    display: flex;
+    
+}
+.menu li a{
+    text-decoration: none;
+    font-size: 22px;
+    gap: 30px;
+    color: white;
+    margin-left: 50px;
+}
+
+
+.form{
+    display: flex;
+    margin-left: 100px;
+   
+}
+.form button{
+    width: 120px;
+    height: 45px;
+    margin-right: 20px;
+    border-radius: 20px;
+  font-weight: 700;
+}
+.div2{
+    display: flex;
+   
+    width: 100%;
+}
+.div21{
+    
+    width: 47%;
+    margin: 20px;
+}
+.div21 h1{
+    margin: 20px;
+    font-size: 80px;
+    color: aliceblue;
+    font-weight: 700;
+}
+.div21 p{
+    margin: 20px;
+    font-size: 18px;
+    color: rgb(170, 171, 172);
+    font-weight: 700;
+}
+.div21 button{
+    margin: 20px;
+    width: 130px;
+    height: 50px;
+    font-size: 18px;
+    color: rgb(3, 8, 12);
+    font-weight: 700;
+    border-radius: 10px;
+}
+.div22{
+   
+    width: 47%;
+    margin: 20px;
+}
+.div22 p{
+    text-align: center;
+    color: aliceblue;
+}
+
+
+.div3{
+    display: flex;
+   
+    width: 100%;
+}
+.div31{
+    
+    width: 47%;
+    margin: 20px;
+}
+.divi img{
+ background-position: left;
+   
+}
+.divi2 img{
+ background-position: right;
+   
+}
+.div31 h1{
+    margin: 20px;
+    font-size: 80px;
+    color: aliceblue;
+    font-weight: 700;
+}
+.div31 p{
+    margin: 20px;
+    font-size: 18px;
+    color: rgb(170, 171, 172);
+    font-weight: 700;
+}
+
+.div32{
+    width: 47%;
+    margin: 20px;
+}
+
+.div32 img{
+    
+   margin-left: 200px; 
+   margin-top: 100px;
+   border:3px solid rgb(249, 29, 197);
+   border-radius: 10px;
+   border-style: groove;
+
+}
+.div32 h1{
+    font-size: 45px;
+    color: aliceblue;
+    text-align: center;
+    margin-left: 190px;
+}
